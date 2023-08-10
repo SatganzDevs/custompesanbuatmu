@@ -181,10 +181,10 @@ var id = localStorage.getItem('idcustompesanbuatmu');
      <!-- Wallpaper --><img src="https://feeldreams.github.io/pics/awan/5.jpg" id="wallpaper"/>
     </div>
     <form id="form" action="" method="POST">
-        <h3>Custom<br></h3>
+        <h3>Custom<br>Pesan</h3>
         <p>Edit kata-kata sesuka hatimu!</p>
-        <p>TikTok: @feelthisray</p>
-        <p><a href="https://instagram.com/rayyarrr" target="_blank">Tanya ke IG</a> — | — <a href="https://api.whatsapp.com/send?phone=6282126983296&text=Izin%20bertanya%20kak%20custompesanbuatmu%2C%0A%0A%28Masukkan%20pesan%29" target="_blank">Tanya ke WA</a></p>
+        <p>TikTok: @stria_______</p>
+        <p><a href="https://instagram.com/kurniawan_satriaaaaa" target="_blank">Tanya ke IG</a> — | — <a href="https://api.whatsapp.com/send?phone=6281316701742&text=Izin%20bertanya%20kak%20custompesanbuatmu%2C%0A%0A%28Masukkan%20pesan%29" target="_blank">Tanya ke WA</a></p>
       
         <input style="display:none" type="text" id="id" name="id" value="<?php echo $id ?>" readonly>
 

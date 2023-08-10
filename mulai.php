@@ -147,7 +147,7 @@ p{color:var(--warna-teks);font-size:15px;font-weight:700;line-height:1.4em;margi
   </a>
 
   <div class='sticky-ad' id='sticky-ad'>
- <div class='adB'><a rel="dofollow" href='https://bit.ly/htmlfeeldream'>Lihat Script HTML Lainnya di Sini!</a></div>
+
 <button aria-label='Close this ad' class='sticky-ad-close-button' onclick='hilangkan();'/>
 </div>
   
@@ -224,7 +224,7 @@ p{color:var(--warna-teks);font-size:15px;font-weight:700;line-height:1.4em;margi
 <?php
       // Ambil nilai parameter id dari URL
       $id = $_GET["id"];
-    ?><script>tomWA.href="https://api.whatsapp.com/send?phone=&text=https%3A%2F%2Fcustompesanbuatmu.feeldream.repl.co%2Fmulai.php%3Fid%3D<?php echo $id ?>";</script><?php
+    ?><script>tomWA.href="https://api.whatsapp.com/send?phone=&text=https%3A%2F%2Fcustompesanbuatmu.satganzdevs.repl.co%2Fmulai.php%3Fid%3D<?php echo $id ?>";</script><?php
       
       // Buka file pesan.txt
       $file = fopen("pesan.txt", "r");
